@@ -23,6 +23,7 @@ div.style.fontSize='18px';
   - tips
     - guard function: 可以讓你的 nested function 的情況變好
     - extract variable
+    - extract function
   - github repo: https://github.com/koshuang/transform-object-keys-to-camel-case
 
 ## References

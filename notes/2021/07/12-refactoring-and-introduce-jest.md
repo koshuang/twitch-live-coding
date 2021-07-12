@@ -1,6 +1,8 @@
-# 2021-07-11 Twitch Streaming
+# 2021-07-12 Twitch Streaming
 
 Subject: [Coding] Refactoring Rage's code & Introduce Jest - TypeScript / React.js / Next.js / Monorepo
+
+Twitch Link: https://www.twitch.tv/videos/1084537505
 
 <!--  
 const div = document.querySelector('.sc-AxjAm .iltvOi');

@@ -17,6 +17,7 @@ div.style.fontSize='18px';
     - Ctrl + C: 複製
     - Ctrl + X: 剪下
     - Ctrl + V: 貼上
+    - [其他快速鍵](https://github.com/koshuang/engineer-wiki/blob/main/IDE/VS%20Code/Shortcuts.md)
 
 - 網頁
   - 副檔名： `html`, e.x. `index.html`

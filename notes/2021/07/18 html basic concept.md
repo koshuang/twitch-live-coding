@@ -11,6 +11,7 @@ div.style.fontSize='18px';
 ## Agenda
 
 - Install VS Code: https://code.visualstudio.com/
+  - 安裝套件（Extension）: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - 快速鍵：
     - Ctrl + S: 存檔
     - Ctrl + C: 複製

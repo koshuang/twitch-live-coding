@@ -1,5 +1,6 @@
 # 2021-07-24 Twitch Streaming
 
+
 > Subject: [Teach] Basic React Concept - TypeScript / React.js / Next.js / Monorepo
 
 <!--  
@@ -230,6 +231,37 @@ const car = new Car(); // instance
 
 // console.log(car);
 car.printCar();
+```
+
+### 
+
+* 文章 [談談 JavaScript 中 by reference 和 by value 的重要觀念](https://pjchender.blogspot.com/2016/03/javascriptby-referenceby-value.html)
+
+記憶體示意圖
+
+```
+a = 1
+b = true
+c = 1.2
+d = { name: 'kk' }
+e = d
+a = 2
+b = a
+d.name = 'hello'
+
+
+variable     address       value_type        value
+   a            1             value            2
+   b            2             value            2
+   c            3             value            1.2
+   ref_1        4             value            { name: 'hello' }
+   d            5             ref              ref_1
+   e            6             ref              ref_1
+   ref_2        7             value            [1, 2, 3, 4]
+   quantities   8             ref              ref_2
+   ref_3        9             value            [5, 2, 3, 4]
+   new_qs       10            ref              ref_3
+
 ```
 
 ## Git Command

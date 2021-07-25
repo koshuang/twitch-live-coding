@@ -52,6 +52,10 @@ div.style.fontSize='18px';
     - height: 長度
     - border: 外框
 
+## Homework
+- 讀完學習資源
+- 把學到的 CSS 套用在自己的網頁
+
 ## References
 
 - 學習資源: https://developer.mozilla.org/zh-TW/docs/Learn/Getting_started_with_the_web/CSS_basics

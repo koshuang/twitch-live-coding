@@ -2,7 +2,7 @@
 
 Subject: [Coding] Fix user CRUD for mock - TypeScript / React.js / Next.js / Monorepo
 
-<!--  
+<!--
 const div = document.querySelector('.sc-AxjAm .iltvOi');
 div.innerText = 'https://hackmd.io/@koshuang/twitch-streaming';
 div.style.fontSize='18px';
@@ -29,7 +29,7 @@ div.style.fontSize='18px';
 
 - Linux
   - 資料夾(directory) => 樹狀結構
-  - `/` => root 
+  - `/` => root
   - `~` => home (/home/kos)
   - `.` => current directory 目前的資料夾
   - `..` => parent directory 上一層的資料夾
@@ -51,16 +51,3 @@ div.style.fontSize='18px';
 
 - https://www.conventionalcommits.org/
 - https://backlog.com/git-tutorial/tw/stepup/stepup7_5.html
-
-
-
-
-
-
-
-
-
-
-
-
-
